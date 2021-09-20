@@ -14,5 +14,4 @@ If you installed git you can clone the code to your machine, or download a ZIP o
 
 ## Documentation
 For more information, Please refer to the HTML [docs](https://developer.mozilla.org/en-US/docs/Web/HTML).<br>
-For more information, Please refer to the CSS [docs](https://developer.mozilla.org/en-US/docs/Web/CSS).<br>
 For more information, Please refer to the JavaScript [docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
